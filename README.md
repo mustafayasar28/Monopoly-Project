@@ -13,6 +13,8 @@
 
 #### [Trailer of the Game](https://www.youtube.com/watch?v=Q2ZXlAOmF_s)
 
+### Grade: 96/100
+
 ## Changelog 
 ## 13.12.2020: [Iteration 2 Design Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/CS319_G2A_Iteration2_DesignReport.pdf)
 ## 13.12.2020: [Iteration 2 Project Analysis Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/CS319_G2A_Iteration2_AnalysisReport.pdf)
