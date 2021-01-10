@@ -11,8 +11,7 @@
 
 # 
 
-#### [Trailer of the Game]
-(https://www.youtube.com/watch?v=Q2ZXlAOmF_s)
+#### [Trailer of the Game](https://www.youtube.com/watch?v=Q2ZXlAOmF_s)
 
 ## Changelog 
 ## 13.12.2020: [Iteration 2 Design Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/CS319_G2A_Iteration2_DesignReport.pdf)
