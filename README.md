@@ -1,5 +1,6 @@
-## CS 319 Section 2
-## Group 2A
+## CS 319 Object Oriented Software Engineering 
+## Section 2
+## Group 2A - Term Project
 ### Members:
 #### Mustafa Yaşar 21702808
 #### Emre Açıkgöz 21801914
@@ -10,11 +11,12 @@
 
 # 
 
+#### [Trailer of the Game]
+(https://www.youtube.com/watch?v=Q2ZXlAOmF_s)
+
 ## Changelog 
 ## 13.12.2020: [Iteration 2 Design Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/CS319_G2A_Iteration2_DesignReport.pdf)
 ## 13.12.2020: [Iteration 2 Project Analysis Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/CS319_G2A_Iteration2_AnalysisReport.pdf)
-## 29.11.2020: [Iteration 1 Design Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/CS319_G2A_Iteration1_DesignReport.pdf)
-## 01.11.2020: [Iteration 1 Project Analysis Report](https://github.com/CanKirsallioba/CS319_Group2A_Project_Monopoly/blob/master/reports/Iteration%201%20-%20Project%20Analysis%20Report.pdf)
 
 ## Implementation Report
 
